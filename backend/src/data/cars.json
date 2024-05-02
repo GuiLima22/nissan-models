@@ -23,18 +23,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The 240sx became an iconic choice for drifting enthusiasts due to its lightweight chassis and balanced handling.",
-                "txt02": "Did you know? The 240sx was also sold as the Nissan Silvia in Japan.",
-                "txt03": "One interesting fact about the 240sx is that it was initially introduced as a rear-wheel drive sports coupe.",
-                "txt04": "In its later years, the 240sx gained popularity in the aftermarket tuning scene for its potential in engine swaps and modifications.",
-                "txt05": "Despite being discontinued in 1998, the 240sx remains a sought-after platform for motorsport enthusiasts."
+                "txt01": {
+                    "title": "240sx",
+                    "text": "The 240sx became an iconic choice for drifting enthusiasts due to its lightweight chassis and balanced handling."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The 240sx was also sold as the Nissan Silvia in Japan."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the 240sx is that it was initially introduced as a rear-wheel drive sports coupe."
+                },
+                "txt04": {
+                    "title": "In its later years...",
+                    "text": "In its later years, the 240sx gained popularity in the aftermarket tuning scene for its potential in engine swaps and modifications."
+                },
+                "txt05": {
+                    "title": "Despite being discontinued...",
+                    "text": "Despite being discontinued in 1998, the 240sx remains a sought-after platform for motorsport enthusiasts."
+                }
             },
             "portuguese": {
-                "txt01": "O 240sx se tornou uma escolha icônica para entusiastas de drift devido ao seu chassi leve e manejo equilibrado.",
-                "txt02": "Você sabia? O 240sx também foi vendido como Nissan Silvia no Japão.",
-                "txt03": "Um fato interessante sobre o 240sx é que ele foi inicialmente introduzido como um cupê esportivo de tração traseira.",
-                "txt04": "Em seus últimos anos, o 240sx ganhou popularidade na cena de ajuste de mercado secundário por seu potencial em trocas de motores e modificações.",
-                "txt05": "Apesar de ter sido descontinuado em 1998, o 240sx continua sendo uma plataforma procurada por entusiastas de esportes motorizados."
+                "txt01": {
+                    "title": "240sx",
+                    "text": "O 240sx se tornou uma escolha icônica para entusiastas de drift devido ao seu chassi leve e manejo equilibrado."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "Você sabia? O 240sx também foi vendido como Nissan Silvia no Japão."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o 240sx é que ele foi inicialmente introduzido como um cupê esportivo de tração traseira."
+                },
+                "txt04": {
+                    "title": "Em seus últimos anos...",
+                    "text": "Em seus últimos anos, o 240sx ganhou popularidade na cena de ajuste de mercado secundário por seu potencial em trocas de motores e modificações."
+                },
+                "txt05": {
+                    "title": "Apesar de ter sido descontinuado...",
+                    "text": "Apesar de ter sido descontinuado em 1998, o 240sx continua sendo uma plataforma procurada por entusiastas de esportes motorizados."
+                }
             }
         }
     },
@@ -62,18 +92,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan 350z received widespread acclaim for its powerful V6 engine and sleek design.",
-                "txt02": "Did you know? The 350z was featured in the popular video game franchise 'Need for Speed'.",
-                "txt03": "One interesting fact about the 350z is that it was known for its balanced performance and handling characteristics.",
-                "txt04": "In its production years, the 350z became a favorite among car enthusiasts for its affordability and customization options.",
-                "txt05": "Despite being discontinued in 2009, the 350z remains a beloved choice for performance car enthusiasts."
+                "txt01": {
+                    "title": "350z",
+                    "text": "The Nissan 350z received widespread acclaim for its powerful V6 engine and sleek design."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The 350z was featured in the popular video game franchise 'Need for Speed'."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the 350z is that it was known for its balanced performance and handling characteristics."
+                },
+                "txt04": {
+                    "title": "In its production years...",
+                    "text": "In its production years, the 350z became a favorite among car enthusiasts for its affordability and customization options."
+                },
+                "txt05": {
+                    "title": "Despite being discontinued...",
+                    "text": "Despite being discontinued in 2009, the 350z remains a beloved choice for performance car enthusiasts."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan 350z recebeu amplo reconhecimento por seu poderoso motor V6 e design elegante.",
-                "txt02": "Você sabia? O 350z foi apresentado na popular franquia de jogos de vídeo 'Need for Speed'.",
-                "txt03": "Um fato interessante sobre o 350z é que ele era conhecido por seu desempenho equilibrado e características de manuseio.",
-                "txt04": "Durante seus anos de produção, o 350z se tornou um favorito entre os entusiastas de carros por sua acessibilidade e opções de personalização.",
-                "txt05": "Apesar de ter sido descontinuado em 2009, o 350z continua sendo uma escolha amada para entusiastas de carros esportivos."
+                "txt01": {
+                    "title": "350z",
+                    "text": "O Nissan 350z recebeu amplo reconhecimento por seu poderoso motor V6 e design elegante."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O 350z foi apresentado na popular franquia de jogos de vídeo 'Need for Speed'."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o 350z é que ele era conhecido por seu desempenho equilibrado e características de manuseio."
+                },
+                "txt04": {
+                    "title": "Durante seus anos de produção...",
+                    "text": "Durante seus anos de produção, o 350z se tornou um favorito entre os entusiastas de carros por sua acessibilidade e opções de personalização."
+                },
+                "txt05": {
+                    "title": "Apesar de ter sido descontinuado...",
+                    "text": "Apesar de ter sido descontinuado em 2009, o 350z continua sendo uma escolha amada para entusiastas de carros esportivos."
+                }
             }
         }
     },
@@ -101,18 +161,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan 370z is celebrated for its aggressive styling and potent V6 engine.",
-                "txt02": "Did you know? The 370z is a direct successor to the popular Nissan 350z model.",
-                "txt03": "One interesting fact about the 370z is that it features a rev-matching function for smoother downshifts.",
-                "txt04": "During its production run, the 370z received numerous performance upgrades and special editions.",
-                "txt05": "Despite its age, the 370z continues to impress enthusiasts with its timeless design and engaging driving dynamics."
+                "txt01": {
+                    "title": "370z",
+                    "text": "The Nissan 370z is celebrated for its aggressive styling and potent V6 engine."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The 370z is a direct successor to the popular Nissan 350z model."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the 370z is that it features a rev-matching function for smoother downshifts."
+                },
+                "txt04": {
+                    "title": "During its production run...",
+                    "text": "During its production run, the 370z received numerous performance upgrades and special editions."
+                },
+                "txt05": {
+                    "title": "Despite its age...",
+                    "text": "Despite its age, the 370z continues to impress enthusiasts with its timeless design and engaging driving dynamics."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan 370z é celebrado por seu estilo agressivo e motor V6 potente.",
-                "txt02": "Você sabia? O 370z é um sucessor direto do popular modelo Nissan 350z.",
-                "txt03": "Um fato interessante sobre o 370z é que ele apresenta uma função de correspondência de rotação para trocas de marcha mais suaves.",
-                "txt04": "Durante sua produção, o 370z recebeu inúmeras melhorias de desempenho e edições especiais.",
-                "txt05": "Apesar de sua idade, o 370z continua impressionando os entusiastas com seu design atemporal e dinâmica de condução envolvente."
+                "txt01": {
+                    "title": "370z",
+                    "text": "O Nissan 370z é celebrado por seu estilo agressivo e motor V6 potente."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O 370z é um sucessor direto do popular modelo Nissan 350z."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o 370z é que ele apresenta uma função de correspondência de rotação para trocas de marcha mais suaves."
+                },
+                "txt04": {
+                    "title": "Durante sua produção...",
+                    "text": "Durante sua produção, o 370z recebeu inúmeras melhorias de desempenho e edições especiais."
+                },
+                "txt05": {
+                    "title": "Apesar de sua idade...",
+                    "text": "Apesar de sua idade, o 370z continua impressionando os entusiastas com seu design atemporal e dinâmica de condução envolvente."
+                }
             }
         }
     },
@@ -140,18 +230,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan Skyline R32 gained legendary status for its dominance in motorsport competitions.",
-                "txt02": "Did you know? The R32 Skyline was the first to feature Nissan's iconic RB26DETT engine.",
-                "txt03": "One interesting fact about the R32 is that it was nicknamed 'Godzilla' due to its performance prowess.",
-                "txt04": "Despite being over three decades old, the R32 remains highly sought after by collectors and enthusiasts alike.",
-                "txt05": "The R32 Skyline is often credited with revolutionizing the performance car market in the 1990s."
+                "txt01": {
+                    "title": "Skyline R32",
+                    "text": "The Nissan Skyline R32 gained legendary status for its dominance in motorsport competitions."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The R32 Skyline was the first to feature Nissan's iconic RB26DETT engine."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the R32 is that it was nicknamed 'Godzilla' due to its performance prowess."
+                },
+                "txt04": {
+                    "title": "Despite being over three decades old...",
+                    "text": "Despite being over three decades old, the R32 remains highly sought after by collectors and enthusiasts alike."
+                },
+                "txt05": {
+                    "title": "The R32 Skyline is often credited with revolutionizing the performance car market...",
+                    "text": "The R32 Skyline is often credited with revolutionizing the performance car market in the 1990s."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan Skyline R32 ganhou status lendário por sua dominação em competições automobilísticas.",
-                "txt02": "Você sabia? O R32 Skyline foi o primeiro a apresentar o icônico motor RB26DETT da Nissan.",
-                "txt03": "Um fato interessante sobre o R32 é que ele recebeu o apelido de 'Godzilla' devido ao seu desempenho imponente.",
-                "txt04": "Apesar de ter mais de três décadas de idade, o R32 continua sendo muito procurado por colecionadores e entusiastas.",
-                "txt05": "O Skyline R32 é frequentemente creditado por revolucionar o mercado de carros de alto desempenho na década de 1990."
+                "txt01": {
+                    "title": "Skyline R32",
+                    "text": "O Nissan Skyline R32 ganhou status lendário por sua dominação em competições automobilísticas."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O R32 Skyline foi o primeiro a apresentar o icônico motor RB26DETT da Nissan."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o R32 é que ele recebeu o apelido de 'Godzilla' devido ao seu desempenho imponente."
+                },
+                "txt04": {
+                    "title": "Apesar de ter mais de três décadas de idade...",
+                    "text": "Apesar de ter mais de três décadas de idade, o R32 continua sendo muito procurado por colecionadores e entusiastas."
+                },
+                "txt05": {
+                    "title": "O Skyline R32 é frequentemente creditado por revolucionar o mercado de carros de alto desempenho...",
+                    "text": "O Skyline R32 é frequentemente creditado por revolucionar o mercado de carros de alto desempenho na década de 1990."
+                }
             }
         }
     },
@@ -179,18 +299,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan Skyline R34 is renowned for its advanced technology and precise handling.",
-                "txt02": "Did you know? The R34 Skyline was featured in the movie '2 Fast 2 Furious'.",
-                "txt03": "One interesting fact about the R34 is that it was the last Skyline model to feature the RB26DETT engine.",
-                "txt04": "During its production years, the R34 gained a cult following among enthusiasts for its performance and iconic design.",
-                "txt05": "Despite being discontinued in 2002, the R34 remains highly desirable among collectors and fans of Japanese performance cars."
+                "txt01": {
+                    "title": "Skyline R34",
+                    "text": "The Nissan Skyline R34 is renowned for its advanced technology and precise handling."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The R34 Skyline was featured in the movie '2 Fast 2 Furious'."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the R34 is that it was the last Skyline model to feature the RB26DETT engine."
+                },
+                "txt04": {
+                    "title": "During its production years...",
+                    "text": "During its production years, the R34 gained a cult following among enthusiasts for its performance and iconic design."
+                },
+                "txt05": {
+                    "title": "Despite being discontinued in 2002...",
+                    "text": "Despite being discontinued in 2002, the R34 remains highly desirable among collectors and fans of Japanese performance cars."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan Skyline R34 é renomado por sua tecnologia avançada e manuseio preciso.",
-                "txt02": "Você sabia? O R34 Skyline foi apresentado no filme '2 Fast 2 Furious'.",
-                "txt03": "Um fato interessante sobre o R34 é que ele foi o último modelo Skyline a apresentar o motor RB26DETT.",
-                "txt04": "Durante seus anos de produção, o R34 ganhou uma legião de seguidores entre os entusiastas por seu desempenho e design icônico.",
-                "txt05": "Apesar de ter sido descontinuado em 2002, o R34 continua sendo altamente desejável entre colecionadores e fãs de carros japoneses de alto desempenho."
+                "txt01": {
+                    "title": "Skyline R34",
+                    "text": "O Nissan Skyline R34 é renomado por sua tecnologia avançada e manuseio preciso."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O R34 Skyline foi apresentado no filme '2 Fast 2 Furious'."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o R34 é que ele foi o último modelo Skyline a apresentar o motor RB26DETT."
+                },
+                "txt04": {
+                    "title": "Durante seus anos de produção...",
+                    "text": "Durante seus anos de produção, o R34 ganhou uma legião de seguidores entre os entusiastas por seu desempenho e design icônico."
+                },
+                "txt05": {
+                    "title": "Apesar de ter sido descontinuado em 2002...",
+                    "text": "Apesar de ter sido descontinuado em 2002, o R34 continua sendo altamente desejável entre colecionadores e fãs de carros japoneses de alto desempenho."
+                }
             }
         }
     },
@@ -218,18 +368,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan GT-R R35 is celebrated for its blistering performance and advanced technology.",
-                "txt02": "Did you know? The R35 GT-R set a lap record at the Nürburgring Nordschleife.",
-                "txt03": "One interesting fact about the R35 is that it features an advanced all-wheel-drive system for superior traction and handling.",
-                "txt04": "Throughout its production, the R35 GT-R received continuous updates and performance enhancements.",
-                "txt05": "The GT-R R35 continues to push the boundaries of what a supercar can achieve, delivering exhilarating performance on both road and track."
+                "txt01": {
+                    "title": "GT-R R35",
+                    "text": "The Nissan GT-R R35 is celebrated for its blistering performance and advanced technology."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The R35 GT-R set a lap record at the Nürburgring Nordschleife."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the R35 is that it features an advanced all-wheel-drive system for superior traction and handling."
+                },
+                "txt04": {
+                    "title": "Throughout its production...",
+                    "text": "Throughout its production, the R35 GT-R received continuous updates and performance enhancements."
+                },
+                "txt05": {
+                    "title": "The GT-R R35 continues to push the boundaries...",
+                    "text": "The GT-R R35 continues to push the boundaries of what a supercar can achieve, delivering exhilarating performance on both road and track."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan GT-R R35 é celebrado por seu desempenho impressionante e tecnologia avançada.",
-                "txt02": "Você sabia? O GT-R R35 estabeleceu um recorde de volta no Nürburgring Nordschleife.",
-                "txt03": "Um fato interessante sobre o R35 é que ele apresenta um sistema avançado de tração nas quatro rodas para tração e manuseio superiores.",
-                "txt04": "Ao longo de sua produção, o GT-R R35 recebeu atualizações contínuas e melhorias de desempenho.",
-                "txt05": "O GT-R R35 continua a empurrar os limites do que um supercarro pode alcançar, oferecendo um desempenho emocionante tanto na estrada quanto na pista."
+                "txt01": {
+                    "title": "GT-R R35",
+                    "text": "O Nissan GT-R R35 é celebrado por seu desempenho impressionante e tecnologia avançada."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O R35 GT-R estabeleceu um recorde de volta no Nürburgring Nordschleife."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o R35 é que ele apresenta um sistema avançado de tração nas quatro rodas para tração e manuseio superiores."
+                },
+                "txt04": {
+                    "title": "Ao longo de sua produção...",
+                    "text": "Ao longo de sua produção, o R35 GT-R recebeu atualizações contínuas e melhorias de desempenho."
+                },
+                "txt05": {
+                    "title": "O GT-R R35 continua a empurrar os limites...",
+                    "text": "O GT-R R35 continua a empurrar os limites do que um supercarro pode alcançar, oferecendo desempenho emocionante tanto na estrada quanto na pista."
+                }
             }
         }
     },
@@ -257,18 +437,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan 240SX S13 is revered for its lightweight design and agile handling.",
-                "txt02": "Did you know? The S13 was available in both coupe and hatchback variants.",
-                "txt03": "One interesting fact about the S13 is that it was a popular choice for drifting competitions in the 1990s.",
-                "txt04": "With its robust aftermarket support, the S13 remains a favorite among tuners and enthusiasts for customization.",
-                "txt05": "Despite its age, the S13 continues to inspire a new generation of car enthusiasts with its timeless appeal."
+                "txt01": {
+                    "title": "Nissan 240SX S13",
+                    "text": "The Nissan 240SX S13 is revered for its lightweight design and agile handling."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The S13 was available in both coupe and hatchback variants."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the S13 is that it was a popular choice for drifting competitions in the 1990s."
+                },
+                "txt04": {
+                    "title": "With its robust aftermarket support...",
+                    "text": "With its robust aftermarket support, the S13 remains a favorite among tuners and enthusiasts for customization."
+                },
+                "txt05": {
+                    "title": "Despite its age...",
+                    "text": "Despite its age, the S13 continues to inspire a new generation of car enthusiasts with its timeless appeal."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan 240SX S13 é reverenciado por seu design leve e manuseio ágil.",
-                "txt02": "Você sabia? O S13 estava disponível em variantes cupê e hatchback.",
-                "txt03": "Um fato interessante sobre o S13 é que ele era uma escolha popular para competições de drift na década de 1990.",
-                "txt04": "Com seu robusto suporte de mercado secundário, o S13 continua sendo um favorito entre ajustadores e entusiastas para personalização.",
-                "txt05": "Apesar de sua idade, o S13 continua a inspirar uma nova geração de entusiastas de carros com seu apelo atemporal."
+                "txt01": {
+                    "title": "Nissan 240SX S13",
+                    "text": "O Nissan 240SX S13 é reverenciado por seu design leve e manuseio ágil."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O S13 estava disponível em variantes cupê e hatchback."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o S13 é que ele era uma escolha popular para competições de drift na década de 1990."
+                },
+                "txt04": {
+                    "title": "Com seu robusto suporte de mercado secundário...",
+                    "text": "Com seu robusto suporte de mercado secundário, o S13 continua sendo um favorito entre ajustadores e entusiastas para personalização."
+                },
+                "txt05": {
+                    "title": "Apesar de sua idade...",
+                    "text": "Apesar de sua idade, o S13 continua a inspirar uma nova geração de entusiastas de carros com seu apelo atemporal."
+                }
             }
         }
     },
@@ -296,18 +506,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan 240SX S14 is praised for its refined styling and responsive performance.",
-                "txt02": "Did you know? The S14 featured a more modern design compared to its predecessor, the S13.",
-                "txt03": "One interesting fact about the S14 is that it was offered with both naturally aspirated and turbocharged engine options.",
-                "txt04": "During its production run, the S14 gained a dedicated following among drifting enthusiasts for its balanced chassis and tunability.",
-                "txt05": "Despite being out of production for over two decades, the S14 remains a popular choice for car enthusiasts seeking an affordable platform for modification."
+                "txt01": {
+                    "title": "Nissan 240SX S14",
+                    "text": "The Nissan 240SX S14 is praised for its refined styling and responsive performance."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The S14 featured a more modern design compared to its predecessor, the S13."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the S14 is that it was offered with both naturally aspirated and turbocharged engine options."
+                },
+                "txt04": {
+                    "title": "During its production run...",
+                    "text": "During its production run, the S14 gained a dedicated following among drifting enthusiasts for its balanced chassis and tunability."
+                },
+                "txt05": {
+                    "title": "Despite being out of production...",
+                    "text": "Despite being out of production for over two decades, the S14 remains a popular choice for car enthusiasts seeking an affordable platform for modification."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan 240SX S14 é elogiado por seu estilo refinado e desempenho responsivo.",
-                "txt02": "Você sabia? O S14 apresentava um design mais moderno em comparação com seu antecessor, o S13.",
-                "txt03": "Um fato interessante sobre o S14 é que ele era oferecido com opções de motor aspirado naturalmente e turboalimentado.",
-                "txt04": "Durante sua produção, o S14 conquistou uma base dedicada de entusiastas de drift por seu chassi equilibrado e ajustabilidade.",
-                "txt05": "Apesar de estar fora de produção há mais de duas décadas, o S14 continua sendo uma escolha popular para entusiastas de carros em busca de uma plataforma acessível para modificação."
+                "txt01": {
+                    "title": "Nissan 240SX S14",
+                    "text": "O Nissan 240SX S14 é elogiado por seu estilo refinado e desempenho responsivo."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O S14 apresentava um design mais moderno em comparação com seu antecessor, o S13."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o S14 é que ele era oferecido com opções de motor aspirado naturalmente e turboalimentado."
+                },
+                "txt04": {
+                    "title": "Durante sua produção...",
+                    "text": "Durante sua produção, o S14 conquistou uma base dedicada de entusiastas de drift por seu chassi equilibrado e ajustabilidade."
+                },
+                "txt05": {
+                    "title": "Apesar de estar fora de produção...",
+                    "text": "Apesar de estar fora de produção há mais de duas décadas, o S14 continua sendo uma escolha popular para entusiastas de carros em busca de uma plataforma acessível para modificação."
+                }
             }
         }
     },
@@ -335,18 +575,48 @@
         },
         "texts": {
             "english": {
-                "txt01": "The Nissan Silvia S15 is revered for its sleek design and agile handling.",
-                "txt02": "Did you know? The S15 Silvia was never officially sold in North America, but it has a dedicated fanbase worldwide.",
-                "txt03": "One interesting fact about the S15 is that it was offered with various trim levels and engine options, including naturally aspirated and turbocharged variants.",
-                "txt04": "Despite its production ending in 2002, the S15 remains highly sought after by enthusiasts and collectors for its performance potential and timeless styling.",
-                "txt05": "The S15 Silvia is often considered the pinnacle of the Silvia lineage, blending performance and aesthetics in a compact package."
+                "txt01": {
+                    "title": "Nissan Silvia S15",
+                    "text": "The Nissan Silvia S15 is revered for its sleek design and agile handling."
+                },
+                "txt02": {
+                    "title": "Did you know?...",
+                    "text": "The S15 Silvia was never officially sold in North America, but it has a dedicated fanbase worldwide."
+                },
+                "txt03": {
+                    "title": "One interesting fact...",
+                    "text": "One interesting fact about the S15 is that it was offered with various trim levels and engine options, including naturally aspirated and turbocharged variants."
+                },
+                "txt04": {
+                    "title": "Despite its production ending...",
+                    "text": "Despite its production ending in 2002, the S15 remains highly sought after by enthusiasts and collectors for its performance potential and timeless styling."
+                },
+                "txt05": {
+                    "title": "The S15 Silvia is often considered...",
+                    "text": "The S15 Silvia is often considered the pinnacle of the Silvia lineage, blending performance and aesthetics in a compact package."
+                }
             },
             "portuguese": {
-                "txt01": "O Nissan Silvia S15 é reverenciado por seu design elegante e manuseio ágil.",
-                "txt02": "Você sabia? O S15 Silvia nunca foi oficialmente vendido na América do Norte, mas possui uma base de fãs dedicada em todo o mundo.",
-                "txt03": "Um fato interessante sobre o S15 é que ele era oferecido com vários níveis de acabamento e opções de motor, incluindo variantes aspiradas naturalmente e turboalimentadas.",
-                "txt04": "Apesar de sua produção ter terminado em 2002, o S15 continua sendo altamente procurado por entusiastas e colecionadores por seu potencial de desempenho e estilo atemporal.",
-                "txt05": "O Silvia S15 é frequentemente considerado o ápice da linhagem Silvia, combinando desempenho e estética em um pacote compacto."
+                "txt01": {
+                    "title": "Nissan Silvia S15",
+                    "text": "O Nissan Silvia S15 é reverenciado por seu design elegante e manuseio ágil."
+                },
+                "txt02": {
+                    "title": "Você sabia?...",
+                    "text": "O S15 Silvia nunca foi oficialmente vendido na América do Norte, mas possui uma base de fãs dedicada em todo o mundo."
+                },
+                "txt03": {
+                    "title": "Um fato interessante...",
+                    "text": "Um fato interessante sobre o S15 é que ele era oferecido com vários níveis de acabamento e opções de motor, incluindo variantes aspiradas naturalmente e turboalimentadas."
+                },
+                "txt04": {
+                    "title": "Apesar de sua produção ter terminado...",
+                    "text": "Apesar de sua produção ter terminado em 2002, o S15 continua sendo altamente procurado por entusiastas e colecionadores por seu potencial de desempenho e estilo atemporal."
+                },
+                "txt05": {
+                    "title": "O Silvia S15 é frequentemente considerado...",
+                    "text": "O Silvia S15 é frequentemente considerado o ápice da linhagem Silvia, combinando desempenho e estética em um pacote compacto."
+                }
             }
         }
     }
